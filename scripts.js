@@ -1,6 +1,7 @@
 /* 1. Faça um algoritmo que calcule a soma de 50 a 
 * 100 usando a estrutura “for” e retorne no formato:
 * A soma de 50 a 100 é: X
+* Feito pelo aluno Gabriel Oliveira Aires
 */
 
 function sum () {
